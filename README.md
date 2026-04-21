@@ -226,3 +226,14 @@ Servir como projeto de estudo e portfólio
 
 📄 Licença
 Este projeto é destinado para fins educacionais.
+
+## O que é necessário para criar uma API?
+
+Para criar uma API em qualquer linguagem de programação, é necessário:
+
+- Uma linguagem de programação
+- Um framework ou biblioteca web
+- Definição de rotas (endpoints)
+- Uso de métodos HTTP (GET, POST, PUT, DELETE)
+- Um formato padrão de dados, como JSON
+- Um servidor para disponibilizar a API

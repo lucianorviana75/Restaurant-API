@@ -1,0 +1,54 @@
+✅ O que é preciso para criar uma API (em qualquer linguagem)
+1️⃣ Uma linguagem de programação
+Exemplo: Python, Java, JavaScript, C#, etc.
+
+2️⃣ Um framework ou biblioteca web
+Ele ajuda a:
+
+Criar rotas
+Receber requisições
+Enviar respostas
+
+Exemplos:
+
+Python → FastAPI, Flask, Django
+JavaScript → Express
+Java → Spring Boot
+
+
+3️⃣ Definir endpoints (rotas)
+Exemplos:
+
+GET /usuarios
+POST /pedidos
+
+👉 É assim que o cliente acessa a API.
+
+4️⃣ Métodos HTTP
+Os principais:
+
+GET → buscar dados
+POST → criar dados
+PUT → atualizar
+DELETE → remover
+
+
+5️⃣ Formato de dados (normalmente JSON)
+A API recebe e devolve dados em um formato padrão.
+
+6️⃣ Um servidor
+Para a API ficar disponível:
+
+Local (para testes)
+Ou online (deploy)
+
+
+🧠 Resposta curta (pra decorar)
+Se alguém perguntar “o que é preciso para criar uma API?”, você pode responder:
+
+“É preciso uma linguagem de programação, um framework web, definição de rotas (endpoints), uso dos métodos HTTP e um servidor para disponibilizar a API.”
+
+
+⭐ Resposta ainda mais simples
+
+“Uma API precisa receber requisições, processar dados e devolver respostas.”
